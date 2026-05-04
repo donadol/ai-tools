@@ -81,7 +81,7 @@ OutputObject
 
 ---
 
-### Comportamiento esperado**
+### Comportamiento esperado
 
 Describe el comportamiento esperado.
 
@@ -94,7 +94,7 @@ El servicio debe:
 - Seleccionar la estrategia correspondiente
 - Retornar un `Output`
 
-### 4. Constraints (Restricciones)
+## 4. Constraints (Restricciones)
 
 - No usar librerías externas salvo las aprobadas por el equipo.
 - Implementar type hints en todo el código.
@@ -104,7 +104,7 @@ El servicio debe:
 - Agregar constraints especificos del problema.
 - Agregar constraints especificos del repositorio (eg. linter, tests)
 
-### 5. Definition of Done (DoD)
+## 5. Definition of Done (DoD)
 
 El trabajo se considera terminado cuando:
 
